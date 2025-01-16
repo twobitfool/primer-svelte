@@ -1,2 +1,2 @@
 # primer-svelte
-Svelte implementation of the GitHub Primer design system.
+Svelte (v5) implementation of the GitHub Primer design system.
